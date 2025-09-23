@@ -38,18 +38,6 @@ While my repositories aren’t public, here are the main tracks I’m developing
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrewrpb&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewrpb&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrewrpb&theme=radical&custom_title=Contribution%20Graph%20(2025)" />
-</p>
-
----
 
 ## 🌐 Connect
 
