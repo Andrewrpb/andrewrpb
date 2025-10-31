@@ -30,7 +30,7 @@ I build systems, automate workflows, and share what I learn. My focus is on clou
 
 While my repositories aren’t public, here are the main tracks I’m developing:
 
-- **VitaAura** — A personal health assistant that combines barcode scanning, lab data, and wearables to deliver nutrition and wellness insights.
+- **VitaAura** — -
 - **Yum Inventory** — A bakery inventory and order management app (Next.js, Supabase, Tailwind).
 - **Sandbox** — Startup incubator project focused on business models, product validation, and scalable architecture.
 - **AI-driven Ticketing System** — Endpoint agent + web dashboard for IT automation, metrics, and command execution.
