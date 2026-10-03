@@ -1,50 +1,18 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Andrewrpb" width="120" alt="Andrewrpb's avatar" style="border-radius:50%"><br>
-  <b>Andrewrpb</b>
-</p>
+# Hi, I'm Ricardo 👋
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Andrewrpb?tab=followers">
-    <img src="https://img.shields.io/github/followers/Andrewrpb?label=Followers&style=social" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Andrewrpb&style=flat-square" alt="Profile views" />
-</p>
+I build systems and automate workflows, with a focus on cloud infrastructure and DevOps. Most of my code lives in private repos, so here's an overview of what I'm working on.
 
----
+- 🚀 **Areas I work on:** cloud platforms, developer tooling, automation, system design
+- 💡 **Currently learning:** Kubernetes, Rust, advanced CI/CD
 
-## 👋 About Me
+## 🛠️ What I'm building
 
-> **Hey, I'm Andrewrpb!**
+- **Yum Inventory**: a bakery inventory and order management app (Next.js, Supabase, Tailwind).
+- **AI-driven Ticketing System**: an endpoint agent and web dashboard for IT automation, metrics, and command execution.
+- **Experimental Architectures**: research on system patterns, scalability, and automation (Terraform, Kubernetes, serverless).
+- **Sandbox**: a startup incubator project focused on business models, product validation, and scalable architecture.
+- **VitaAura**: under wraps for now.
 
-I build systems, automate workflows, and share what I learn. My focus is on cloud infrastructure, DevOps, and automation. I keep my code private, but I actively work on tools, architectures, and experiments that push me to learn faster and solve harder problems.
+## 📫 Get in touch
 
-- 💡 Currently learning: Kubernetes, Rust, advanced CI/CD
-- 🚀 Areas I work on: Cloud platforms, developer tooling, automation, system design
-- 🌱 Always curious about new technologies and best practices
-
----
-
-## 🛠️ Projects (Private Work)
-
-While my repositories aren’t public, here are the main tracks I’m developing:
-
-- **VitaAura** — -
-- **Yum Inventory** — A bakery inventory and order management app (Next.js, Supabase, Tailwind).
-- **Sandbox** — Startup incubator project focused on business models, product validation, and scalable architecture.
-- **AI-driven Ticketing System** — Endpoint agent + web dashboard for IT automation, metrics, and command execution.
-- **Experimental Architectures** — Research on system patterns, scalability, and automation (Terraform, Kubernetes, serverless).
-
----
-
-
-## 🌐 Connect
-
-- Website: *coming soon*
-- LinkedIn: *ask me directly*
-- Email: *available on request*
-
----
-
-<sub>Profile generated with GitHub Copilot and manual edits.</sub>
+For now, the best way to reach me is to [open an issue on this repo](https://github.com/Andrewrpb/andrewrpb/issues/new).
